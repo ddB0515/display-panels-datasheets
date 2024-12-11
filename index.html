@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>display-panels-datasheets</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    #result {
+     position: absolute;
+     width: 100%;
+     max-width:870px;
+     cursor: pointer;
+     overflow-y: auto;
+     max-height: 400px;
+     box-sizing: border-box;
+     z-index: 1001;
+   }
+   .link-class:hover{
+     background-color:#f1f1f1;
+   }
+ </style>
+</head>
+<body>
+  <br /><br />
+  <div class="container" style="width:900px;">
+   <h2 align="center">Search for datasheets</h2>
+   <h3 align="center" id="totalAvailable">Currently available: </h3>   
+   <br /><br />
+   <div align="center">
+    <input type="text" name="search" id="search" placeholder="Search Employee Details" class="form-control" />
+  </div>
+  <ul class="list-group" id="result"></ul>
+  <br />
+</div>
+</body>
+</html>
+
+<script>
+  var pdfIcon = 'data:image/png;base64,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';
+
+  $(document).ready(function(){
+
+    function searchFiles(data, searchTerm) {
+      let result = [];
+
+    // Check if the current item is a file and matches the search term
+      if (data.type === "file" && data.name && data.name.toLowerCase().includes(searchTerm.toLowerCase())) {
+        result.push(data);
+      }
+
+    // If it's a folder, recursively search its children (ensure children exists)
+      if (data.type === "folder" && Array.isArray(data.children)) {
+        for (let child of data.children) {
+          result = result.concat(searchFiles(child, searchTerm));
+        }
+      }
+
+      return result;
+    }
+
+    var jsonResponse;
+    // DEV version: http://localhost/datasheets.json
+    $.getJSON('https://ddb0515.github.io/display-panels-datasheets/datasheets.json', function(json) {
+      jsonResponse = json;
+      var div = document.getElementById('totalAvailable');
+      div.innerHTML += json.totalFiles;
+    });
+
+    $.ajaxSetup({ cache: false });
+    $('#search').keyup(function(){
+      $('#result').html('');
+      $('#state').val('');
+      var searchField = $('#search').val();
+      var expression = new RegExp(searchField, "i");
+      var data = jsonResponse.children;
+      const files = searchFiles(jsonResponse, searchField);
+
+      $.each(files, function(key, value){
+        if (value.name.search(expression) != -1)
+        {
+         $('#result').append('<li class="list-group-item link-class"><img src="'+pdfIcon+'" height="40" width="40" class="img-thumbnail" /> '+value.name+'</li>');
+       }  
+     });
+    });
+
+    $('#result').on('click', 'li', function() {
+      var click_text = $(this).text().split('|');
+      $('#search').val($.trim(click_text[0]));
+      $("#result").html('');
+    });
+  });
+</script>
