@@ -1,0 +1,6 @@
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+  - datasheets/
