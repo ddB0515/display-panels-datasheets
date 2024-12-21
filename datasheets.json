@@ -1,6 +1,6 @@
 {
     "name": "datasheets",
-    "totalFiles": 4175,
+    "totalFiles": 4180,
     "type": "folder",
     "children": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "name": "A",
-            "totalFiles": 284,
+            "totalFiles": 285,
             "type": "folder",
             "children": [
                 {
@@ -1003,6 +1003,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "AMS347FM01.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "AT043TN24 V.7.pdf",
                     "type": "file"
                 },
@@ -1154,7 +1158,7 @@
         },
         {
             "name": "B",
-            "totalFiles": 778,
+            "totalFiles": 779,
             "type": "folder",
             "children": [
                 {
@@ -4186,6 +4190,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "BO095F120S.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "BP070WS1-500.pdf",
                     "type": "file"
                 },
@@ -5091,7 +5099,7 @@
         },
         {
             "name": "E",
-            "totalFiles": 55,
+            "totalFiles": 56,
             "type": "folder",
             "children": [
                 {
@@ -5212,6 +5220,10 @@
                 },
                 {
                     "name": "ED097OC1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ED160F320MSO.pdf",
                     "type": "file"
                 },
                 {
@@ -16128,7 +16140,7 @@
         },
         {
             "name": "T",
-            "totalFiles": 131,
+            "totalFiles": 132,
             "type": "folder",
             "children": [
                 {
@@ -16508,6 +16520,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "TR095A120SPC.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "TST040WVBS-25C.pdf",
                     "type": "file"
                 },
@@ -16670,7 +16686,7 @@
         },
         {
             "name": "V",
-            "totalFiles": 43,
+            "totalFiles": 44,
             "type": "folder",
             "children": [
                 {
@@ -16807,6 +16823,10 @@
                 },
                 {
                     "name": "VS035ZSM-NW0-69P0.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "VSX392A101GG.pdf",
                     "type": "file"
                 },
                 {
