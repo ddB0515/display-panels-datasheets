@@ -1,6 +1,6 @@
 {
     "name": "datasheets",
-    "totalFiles": 4188,
+    "totalFiles": 4194,
     "type": "folder",
     "children": [
         {
@@ -5115,7 +5115,7 @@
         },
         {
             "name": "E",
-            "totalFiles": 56,
+            "totalFiles": 57,
             "type": "folder",
             "children": [
                 {
@@ -5236,6 +5236,10 @@
                 },
                 {
                     "name": "ED097OC1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ED103TC2.pdf",
                     "type": "file"
                 },
                 {
@@ -5425,7 +5429,7 @@
         },
         {
             "name": "G",
-            "totalFiles": 325,
+            "totalFiles": 327,
             "type": "folder",
             "children": [
                 {
@@ -5522,6 +5526,10 @@
                 },
                 {
                     "name": "G065VN01 V221.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "G07027AB01A0.pdf",
                     "type": "file"
                 },
                 {
@@ -6717,6 +6725,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "GDOJ0269C01-T.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "GV039YNE-N80-2QP0.pdf",
                     "type": "file"
                 },
@@ -7594,9 +7606,13 @@
         },
         {
             "name": "J",
-            "totalFiles": 1,
+            "totalFiles": 2,
             "type": "folder",
             "children": [
+                {
+                    "name": "JC1060M070N_I.pdf",
+                    "type": "file"
+                },
                 {
                     "name": "JJ123IA-01J.pdf",
                     "type": "file"
@@ -16117,7 +16133,7 @@
         },
         {
             "name": "S",
-            "totalFiles": 11,
+            "totalFiles": 12,
             "type": "folder",
             "children": [
                 {
@@ -16142,6 +16158,10 @@
                 },
                 {
                     "name": "S400HJ6-LE8.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "SD68C74145.pdf",
                     "type": "file"
                 },
                 {
@@ -16707,11 +16727,15 @@
         },
         {
             "name": "U",
-            "totalFiles": 1,
+            "totalFiles": 2,
             "type": "folder",
             "children": [
                 {
                     "name": "UB084S01-2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "UV810CLM-N10.pdf",
                     "type": "file"
                 }
             ]
