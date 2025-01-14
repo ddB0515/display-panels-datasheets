@@ -1,6 +1,6 @@
 {
     "name": "datasheets",
-    "totalFiles": 4195,
+    "totalFiles": 4201,
     "type": "folder",
     "children": [
         {
@@ -1162,7 +1162,7 @@
         },
         {
             "name": "B",
-            "totalFiles": 782,
+            "totalFiles": 783,
             "type": "folder",
             "children": [
                 {
@@ -1171,6 +1171,10 @@
                 },
                 {
                     "name": "B070ATN01.2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "B080UAB02.0.pdf",
                     "type": "file"
                 },
                 {
@@ -6748,7 +6752,7 @@
         },
         {
             "name": "H",
-            "totalFiles": 184,
+            "totalFiles": 186,
             "type": "folder",
             "children": [
                 {
@@ -7224,6 +7228,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "HSD170MGW1-B00.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "HSD170MGW1-B01.pdf",
                     "type": "file"
                 },
@@ -7480,6 +7488,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "HV320WXC-100.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "HV460WU2-600.pdf",
                     "type": "file"
                 },
@@ -7724,7 +7736,7 @@
         },
         {
             "name": "L",
-            "totalFiles": 1219,
+            "totalFiles": 1220,
             "type": "folder",
             "children": [
                 {
@@ -11401,6 +11413,10 @@
                 },
                 {
                     "name": "LS029B3SX02.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "LS029B3SX04.pdf",
                     "type": "file"
                 },
                 {
@@ -16192,7 +16208,7 @@
         },
         {
             "name": "T",
-            "totalFiles": 133,
+            "totalFiles": 135,
             "type": "folder",
             "children": [
                 {
@@ -16593,6 +16609,14 @@
                 },
                 {
                     "name": "TV080WUM-NX2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TV080WUM-TL0.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TV080WXM-LL3.pdf",
                     "type": "file"
                 },
                 {
