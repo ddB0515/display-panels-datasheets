@@ -1,6 +1,6 @@
 {
     "name": "datasheets",
-    "totalFiles": 4201,
+    "totalFiles": 4206,
     "type": "folder",
     "children": [
         {
@@ -5119,7 +5119,7 @@
         },
         {
             "name": "E",
-            "totalFiles": 58,
+            "totalFiles": 63,
             "type": "folder",
             "children": [
                 {
@@ -5215,6 +5215,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "ED060SCE.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "ED060XC3.pdf",
                     "type": "file"
                 },
@@ -5247,7 +5251,15 @@
                     "type": "file"
                 },
                 {
+                    "name": "ED113TC1.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "ED115OC1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ED133UT2.pdf",
                     "type": "file"
                 },
                 {
@@ -5291,11 +5303,19 @@
                     "type": "file"
                 },
                 {
+                    "name": "ES103TC1.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "ES108FC1.pdf",
                     "type": "file"
                 },
                 {
                     "name": "ES120MC1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ET017QG1.pdf",
                     "type": "file"
                 },
                 {
