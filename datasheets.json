@@ -1,6 +1,6 @@
 {
     "name": "datasheets",
-    "totalFiles": 4261,
+    "totalFiles": 4282,
     "type": "folder",
     "children": [
         {
@@ -11,7 +11,7 @@
         },
         {
             "name": "A",
-            "totalFiles": 291,
+            "totalFiles": 292,
             "type": "folder",
             "children": [
                 {
@@ -1024,6 +1024,10 @@
                 },
                 {
                     "name": "AMS347FM01.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "AMS495QA04.pdf",
                     "type": "file"
                 },
                 {
@@ -5155,7 +5159,7 @@
         },
         {
             "name": "E",
-            "totalFiles": 68,
+            "totalFiles": 76,
             "type": "folder",
             "children": [
                 {
@@ -5239,6 +5243,14 @@
                     "type": "file"
                 },
                 {
+                    "name": "ED043WC1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ED043WC3.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "ED052TC4.pdf",
                     "type": "file"
                 },
@@ -5272,6 +5284,10 @@
                 },
                 {
                     "name": "ED060XH7.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ED067KC1.pdf",
                     "type": "file"
                 },
                 {
@@ -5343,6 +5359,22 @@
                     "type": "file"
                 },
                 {
+                    "name": "ER-EPD075-2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ER-TFT035IPS-6.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ER-TFT070-2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ES063TC1.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "ES103TC1.pdf",
                     "type": "file"
                 },
@@ -5364,6 +5396,10 @@
                 },
                 {
                     "name": "ES133UT1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "ESHX0445S001AM.pdf",
                     "type": "file"
                 },
                 {
@@ -5517,7 +5553,7 @@
         },
         {
             "name": "G",
-            "totalFiles": 328,
+            "totalFiles": 330,
             "type": "folder",
             "children": [
                 {
@@ -6485,6 +6521,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "G1700FH101GG-003.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "G170EG01 V.0.pdf",
                     "type": "file"
                 },
@@ -6822,6 +6862,10 @@
                 },
                 {
                     "name": "GV039YNE-N80-2QP0.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "GV070WSM-T83.pdf",
                     "type": "file"
                 },
                 {
@@ -7773,7 +7817,7 @@
         },
         {
             "name": "K",
-            "totalFiles": 25,
+            "totalFiles": 27,
             "type": "folder",
             "children": [
                 {
@@ -7861,6 +7905,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "KD055HDFIA001-C001A.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "KD070D82-39TI-A009.pdf",
                     "type": "file"
                 },
@@ -7874,6 +7922,10 @@
                 },
                 {
                     "name": "KD50G21-40NT-A1.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "KLD35176BVIC.pdf",
                     "type": "file"
                 }
             ]
@@ -12771,7 +12823,7 @@
         },
         {
             "name": "M",
-            "totalFiles": 318,
+            "totalFiles": 319,
             "type": "folder",
             "children": [
                 {
@@ -13884,6 +13936,10 @@
                 },
                 {
                     "name": "M350DVR01.0.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "MDT035003.pdf",
                     "type": "file"
                 },
                 {
@@ -15852,7 +15908,7 @@
         },
         {
             "name": "P",
-            "totalFiles": 101,
+            "totalFiles": 102,
             "type": "folder",
             "children": [
                 {
@@ -16224,6 +16280,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "PP8807DB2-4.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "PT150X0M-N10.pdf",
                     "type": "file"
                 },
@@ -16396,13 +16456,9 @@
         },
         {
             "name": "T",
-            "totalFiles": 148,
+            "totalFiles": 153,
             "type": "folder",
             "children": [
-                {
-                    "name": "PP8807DB2-4.pdf",
-                    "type": "file"
-                },
                 {
                     "name": "T-51382D064J-FW-P-AA.pdf",
                     "type": "file"
@@ -16660,6 +16716,10 @@
                     "type": "file"
                 },
                 {
+                    "name": "TFT-H013A1HQIST2C16.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "TFT-H032A06.pdf",
                     "type": "file"
                 },
@@ -16697,6 +16757,10 @@
                 },
                 {
                     "name": "TL055VDXP43-00.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TL127VVMS01-00.pdf",
                     "type": "file"
                 },
                 {
@@ -16796,7 +16860,19 @@
                     "type": "file"
                 },
                 {
+                    "name": "TOH323XVT-01C.pdf",
+                    "type": "file"
+                },
+                {
                     "name": "TOH497XVT-01.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TOP04950LM01-002.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TOP069C01.pdf",
                     "type": "file"
                 },
                 {
@@ -16805,6 +16881,10 @@
                 },
                 {
                     "name": "TS088QDM-LL0.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "TS127QFM-LL0-DKP0.pdf",
                     "type": "file"
                 },
                 {
@@ -16995,11 +17075,15 @@
         },
         {
             "name": "U",
-            "totalFiles": 2,
+            "totalFiles": 3,
             "type": "folder",
             "children": [
                 {
                     "name": "UB084S01-2.pdf",
+                    "type": "file"
+                },
+                {
+                    "name": "UE040WV-RB40-A049A.pdf",
                     "type": "file"
                 },
                 {
